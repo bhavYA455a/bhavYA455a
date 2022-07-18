@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Structure and Algorithms
 - 🌱 I’m currently learning Android app development
 - 💞️ I’m looking to collaborate on software engineering and for android app developer
-- 📫 How to reach me linedin linkedin.com/in/bhavya-singh-b99b1a203
+- 📫 How to reach me linkedin linkedin.com/in/bhavya-singh-b99b1a203
 - 
 
 <!---
