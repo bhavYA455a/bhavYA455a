@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @bhavYA455a
-- 👀 I’m interested in Data Structure and Algorithms
-- 🌱 I’m currently learning Android app development
-- 💞️ I’m looking to collaborate on software engineering and for android app developer
+- 👀 assionate about turning raw data into actionable insights and automation solutions.
+- 🌱 Data & Business Analyst skilled in SQL, Power BI, and Python for data-driven decision-making.
+- 💞️ I’m looking to collaborate on software engineering and analyst Role.
 - 📫 How to reach me linkedin linkedin.com/in/bhavya-singh-b99b1a203
+- 
 - 
 
 <!---
